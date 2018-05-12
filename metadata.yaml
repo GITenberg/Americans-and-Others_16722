@@ -1,0 +1,32 @@
+_repo: Americans-and-Others_16722
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Repplier, Agnes
+    birthdate: 1855
+    deathdate: 1950
+    gutenberg_agent_id: '6888'
+    url: http://www.gutenberg.org/2009/agents/6888
+    wikipedia: http://en.wikipedia.org/wiki/Agnes_Repplier
+description: ''
+gutenberg_issued: '2005-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16722'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays'
+- !lcc 'PS'
+tableOfContents: A question of politeness -- The mission of humour -- Goodness and
+  gayety -- The nervous strain -- The girl graduate -- The estranging sea -- Travellers'
+  tales -- The chill of enthusiasm -- The temptation of Eve -- "The greatest of these
+  is charity" -- The customary correspondent -- The benefactor -- The condescension
+  of borrowers -- The grocer's cat.
+title: Americans and Others
+url: http://www.gutenberg.org/ebooks/16722
